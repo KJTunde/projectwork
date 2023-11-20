@@ -20,7 +20,6 @@
         Kiválasztás majd klikk az "Otthon, hobbi" gombra
         Szűrés mezőből kiválasztás a "Könyv, újság, magazin (5)"
         Kiválasztás majd klikkelés a "Szédítő Balaton" termék Hozzáad gombjára
-    
         Új oldal ellenőrzése
         Kiválasztás majd klikk a "Vissza a Tesco.hu oldalra"
  
