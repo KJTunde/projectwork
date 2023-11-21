@@ -1,34 +1,23 @@
+# Tesco
+
+Webpage:  https://bevasarlas.tesco.hu/groceries/hu-HU
+
 # User Stories
 
-    Akciós termék kosárba helyezése https://bevasarlas.tesco.hu/groceries/hu-HU oldalon
+1. US1:    Search for a product
+    Description:    As a normal user, using the search bar, I want to search for a product to display all results.
 
-    A böngésző megnyitása
-    Az oldal megnyitása
-    Cookie elfogadása
-    1.Termék keresés a fő oldalon
-        Kiválasztjuk majd klikk a "Tejtermékek, tojás" lenyíló ablakra
-        Kiválasztjuk majd klikk a "Tojás" lenyíló ablakra
-        Kiválasztjuk majd klikk a "Tojás"-ra
-        Kiválasztjuk majd klikk a "Fuchs extra sárga tojás M-L 10 db" darabszám mezőre
-        Vizsgálat: az ár = 1020 Ft
-        Ha teljesül kattintson a Hozzáad-ra
+2. US2:    Changing the language is not on the main page
+    Description:    As a normal user, i want to switch to English using the language change button on the Actions page.
 
+3. US3:    Password change
+    Description:    As a registered user, I want to change my password on the login page.
 
-    2.Termék keresés az Akciók oldalon
-        Kiválasztás majd klikk az Akciók gombra
-        Új oldal ellenőrzése
-        Kiválasztás majd klikk az "Otthon, hobbi" gombra
-        Szűrés mezőből kiválasztás a "Könyv, újság, magazin (5)"
-        Kiválasztás majd klikkelés a "Szédítő Balaton" termék Hozzáad gombjára
-        Új oldal ellenőrzése
-        Kiválasztás majd klikk a "Vissza a Tesco.hu oldalra"
- 
-       
-    A böngésző bezárása
+4. US4:    Store search
+    Description:    As a normal user, I want to enter a settlement in the store search menu and display all the stores belonging to the settlement.
 
-
-
-
+5. US5:    Specific products in an ordered list
+    Description:    As a normal user, I want to display all available products on the menu link of the Donation Coupon and display them in descending order according to the price of the product.
 
 
 
