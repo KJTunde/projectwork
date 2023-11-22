@@ -1,4 +1,4 @@
-package hu.masterfield.steps;
+package hu.masterfield.steps.steps;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
